@@ -1,4 +1,4 @@
-#ML-v2.py
+#ML-LinearRegression-SKLearnSKLearn.py
 import pandas as pd 
 import quandl, math, datetime
 import numpy as np 
