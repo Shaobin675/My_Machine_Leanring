@@ -4,4 +4,4 @@ LinearRegression
 KNN Algorithem 
 Kmeans, Meanshift
 Nurual Network
-NLTK
+and NLTK
